@@ -3,3 +3,4 @@ validation_cache.json
 *.png
 !ex_footage/.*png
 assets/*
+*.pyc
