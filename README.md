@@ -1,4 +1,4 @@
-# 2D tiled map generator
+![image](https://github.com/RobsonLana/map_generator/assets/54358476/5c9d40d1-1107-4f58-bed9-1ec5105f105d)# 2D tiled map generator
 
 This is a simple Python project to generate 2D tile maps procedurally.
 The objective of this project is to replicate, or improve the procedural generation of maps observed on Intelligent Systems / Nintendo's Advance Wars 1 and 2 for GameBoy Advance.
@@ -112,7 +112,7 @@ Generate a map by running `python3 map_generator.py`.
 
 The default configurations are set to generate a 15x10 map at normal weather.
 
-![Normal Map](./ex_footage/normal_15x10.png)
+![Normal Map](https://files.catbox.moe/tgsmzo.png) 
 
 ### Customizations
 
@@ -196,7 +196,7 @@ For future updates, this function will be able to automatically update the evalu
  temp_weights = np.array([1, 1, 1, 1.5, 1, 1, 1])
  ```
 
- ![Snow Map](./ex_footage/snow_30x20.png)
+ ![Snow_Map]( https://files.catbox.moe/pcfvyn.png)
 
  - 15x10 (Size of GameBoy Advance screen) rain map with more sea and reefs:
 
@@ -205,4 +205,4 @@ For future updates, this function will be able to automatically update the evalu
  temp_weights = np.array([1.3, 1.5, 1, 1, 1, 1, 1])
  ```
 
-![Rain Map](./ex_footage/rain_15x10.png)
+![Rain Map](https://files.catbox.moe/sxmswz.png)
