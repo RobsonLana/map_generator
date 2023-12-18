@@ -1,4 +1,4 @@
-![image](https://github.com/RobsonLana/map_generator/assets/54358476/5c9d40d1-1107-4f58-bed9-1ec5105f105d)# 2D tiled map generator
+# 2D tiled map generator
 
 This is a simple Python project to generate 2D tile maps procedurally.
 The objective of this project is to replicate, or improve the procedural generation of maps observed on Intelligent Systems / Nintendo's Advance Wars 1 and 2 for GameBoy Advance.
