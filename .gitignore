@@ -1,0 +1,5 @@
+variation_cache.json
+validation_cache.json
+*.png
+!ex_footage/.*png
+assets/*
